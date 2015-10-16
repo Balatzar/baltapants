@@ -1,0 +1,18 @@
+body {
+  max-width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: right !important;
+  overflow: hidden;
+}
+
+img {
+  width: 70vw;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  margin: 10px auto;
+}
